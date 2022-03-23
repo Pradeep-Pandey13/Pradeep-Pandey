@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pandey-pradeep
+- 👋 Hi, I’m Pradeep Pandey
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on Pojects
