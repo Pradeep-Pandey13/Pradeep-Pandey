@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on Pojects
-- 📫 How to reach me ...mebeingprdp@gmail.com 
+- 📫 How to reach me mebeingprdp@gmail.com 
 
 <!---
 pandey-pradeep/pandey-pradeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
