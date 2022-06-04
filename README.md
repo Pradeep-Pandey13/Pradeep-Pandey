@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on Pojects
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me mebeingprdp@gmail.com 
 
 <!---
