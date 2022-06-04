@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pandey-pradeep&show_icons=true&locale=en" alt="pandey-pradeep" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandey-pradeep&" alt="pandey-pradeep" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pandey-pradeep&" alt="pandey-pradeep" /></p>
