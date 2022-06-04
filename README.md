@@ -11,7 +11,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=pandey-pradeep&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0015ce">
+<img src="https://github-readme-stats.vercel.app/api?username=pandey-pradeep&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=372800">
 
 <!---
 pandey-pradeep/pandey-pradeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
