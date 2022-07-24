@@ -5,7 +5,11 @@
 <h1 align="center">Hi 👋, I'm Pradeep Pandey</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
-- 🌱 I’m currently learning **React and building projects using HTML, CSS, and JavaScript. **
+- 🌱 I’m currently learning React and building projects using HTML, CSS, and JavaScript. 
+
+- 📙 In my free time, I like reading Books.
+
+- 🤝 I’m looking forward to collaborate on projects.
 
 - 💬 Ask me about **JavaScript.**
 
